@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,YAEI,WAAkC,CAAlC,gCAAkC,CAClC,SACJ,CACA,KACI,kBACJ","file":"main.406f3296.chunk.css","sourcesContent":[".edit_input{\n    border: none;\n    border-bottom:0.5px solid deeppink;\n    width: 80%;\n}\nbody{\n    background:#C4BBB9;\n}"]}
